@@ -1,0 +1,16 @@
+requests==2.18.4
+numpy==1.18.1
+scipy==1.4.1
+SoundFile==0.10.3.post1
+PyAudio==0.2.11
+librosa==0.8.0
+beautifulsoup4==4.9.3
+ffmpeg==1.4
+ipython==7.19.0
+matplotlib==3.3.2
+pandas==1.1.4
+protobuf==3.13.0
+scikit_learn==0.23.2
+seaborn==0.11.0
+torch==1.7.0
+tqdm==4.51.0
